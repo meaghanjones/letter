@@ -1,13 +1,13 @@
 $(document).ready(function() {
   $("#blanks form").submit(function(event) {
-    var firstInput = $("input#first").val();
+    var nameInput = $("input#name").val();
     var lastInput = $("input#last").val();
     var streetInput= $("input#street").val();
     var cityInput = $("input#city").val();
     var stateInput = $("input#state").val();
     var zipInput = $("input#zip").val();
 
-    $(".first").text(firstInput);
+    $(".name").text(nameInput);
     $(".last").text(lastInput);
     $(".street").text(streetInput);
     $(".city").text(cityInput);
