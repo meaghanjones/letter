@@ -4,7 +4,7 @@
 
 ## Description
 
-_For this project we created a letter using a form. The user was able to add information about themselves and update the page showing the information they had submitted.
+_For this project we created a letter using a form. The user was able to add information about themselves and update the page showing the information they had submitted._
 
 ## Setup/Installation Requirements
 
@@ -18,4 +18,4 @@ This website was created using HTML, css and bootstrap.
 
 ### Legal
 
-Copyright (c) 2016 **_Meaghan Jones and Stephanie Gurung_**
+Copyright (c) 2016 **_Meaghan Jones and Maldon Meehan_**
